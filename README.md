@@ -1,18 +1,19 @@
 # Herb-DTI v1.0: 
-### 基于异构网络和深度学习预测药物-靶标相互作用
+### 基于异构网络和深度学习预测药物-靶点相互作用
 
-## 环境版本要求
-`Python 3.7` packages:
+## 环境版本
+`Python 3.9.12` packages:
 ```
-- pytorch 1.6+
-- pytorch-geometric 1.6+
-- numpy 1.19+
-- scikit-learn 
-- networkx
-- gensim
-- rdflib
-- BioPython
-- tqdm
+- pytorch 1.13.1
+- pytorch-geometric 2.2.0
+- numpy 1.25.2
+- scikit-learn 1.1.3
+- networkx 2.8.4
+- gensim 4.3.0
+- rdflib 6.2.0
+- BioPython 1.81
+- tqdm 4.65.0
+- wxpython 4.1.1
 - Groovy (Groovy: 2.4.10 JVM: 1.8.0_121)
 - diamond & blastp
 ```
